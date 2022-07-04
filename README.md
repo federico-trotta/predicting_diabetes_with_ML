@@ -11,3 +11,7 @@ It came out a little long work and I decided to write an article, divided in two
 You can find the first part [here](https://towardsdatascience.com/predicting-diabetes-with-machine-learning-part-i-f151cb764aee)
 
 The second part is [here](https://towardsdatascience.com/predicting-diabetes-with-machine-learning-part-ii-a6f703e8cf04)
+
+Recently, I've created a standard for my plots so I've create a custom module called 'plots.py' and it is in the 'custom_functions' folder in this repository.
+In this project I use this module ad it is imported at the beginning of the Notebook.
+If you want to undestand more (maybe, because you do not uderstand how I made some plots in this Notebook), you can see the whole code [here](https://github.com/federico-trotta/plots_custom_functions/tree/main)
