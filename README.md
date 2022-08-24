@@ -15,3 +15,7 @@ The second part is [here](https://towardsdatascience.com/predicting-diabetes-wit
 Recently, I've created a standard for my plots so I've create a custom module called 'plots.py' and it is in the 'custom_functions' folder in this repository.
 In this project I use this module ad it is imported at the beginning of the Notebook.
 If you want to undestand more (maybe, because you do not uderstand how I made some plots in this Notebook), you can see the whole code [here](https://github.com/federico-trotta/plots_custom_functions/tree/main)
+
+If you are not "a technician" or if you just want to understand the main concepts without reading the code, you can take a look at the PDF I created:
+
+- [here](https://github.com/federico-trotta/predicting_diabetes_with_ML/blob/main/PDF/ITALIAN/diabetes%20predictions.pdf) you find the italian version
