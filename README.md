@@ -19,3 +19,4 @@ If you want to undestand more (maybe, because you do not uderstand how I made so
 If you are not "a technician" or if you just want to understand the main concepts without reading the code, you can take a look at the PDF I created:
 
 - [here](https://github.com/federico-trotta/predicting_diabetes_with_ML/blob/main/PDF/ITALIAN/diabetes%20predictions.pdf) you find the italian version
+- [here](https://github.com/federico-trotta/predicting_diabetes_with_ML/blob/main/PDF/ENGLISH/predicting%20diabetes%20with%20ML.pdf) you find the english version
