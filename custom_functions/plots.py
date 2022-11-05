@@ -49,7 +49,7 @@ def plot_kde(y_test, y_test_pred):
     sns.kdeplot(y_test_pred, color='b', label='Predicted Values', ax=ax) #predicted values
 
     #showing title
-    plt.title('Actual vs Precited values')
+    plt.title('Actual vs Predicted values')
     #showing legend
     plt.legend()
     #showing plot
